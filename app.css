@@ -1,0 +1,31 @@
+#appName {
+    font-size: 50px;
+    color: white;
+    text-align: center;
+}
+body {
+    background-color:black;
+}
+
+#appBox {
+    width: 60%;
+    margin: 0 auto;
+    border: white solid 4px;
+    padding: 2%;
+}
+
+.colouring {
+    color: rgb(8, 231, 64);
+}
+
+.button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 10px;
+  }
